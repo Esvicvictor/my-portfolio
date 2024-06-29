@@ -1,82 +1,60 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Esvic Victor",
+		name: "Esvic Victor",
+		email: "esvicvi@gmail.com",
+		logo: "../baby.jpg",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "https://x.com/EsvicVictor",
+		github: "https://github.com/Esvicvictor",
+		linkedin: "https://ng.linkedin.com/in/esvic-victor-852897228",
+		instagram: "https://www.instagram.com/esvic.victor/",
+		facebook: "https://facebook.com/esvic.victor",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "A Frontend Web Developer",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Building market-ready solutions that is sustainable, profitable and scalable using real-time technologies that makes it easier to produce better results",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Hiii, I'm Esvic Victor from Nigeria. Through coding, I turn possibilities to reality.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I enjoy watching movies about Technology like the Billion Dollar Code about Google Earth. Go check it out now!",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Rebranded articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"When I understand a concept, I write it down and share it to others who would in turn find it helpful.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "SpiceAfrica",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"This project showcases different African Meals and a simple ordering system.",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/",
 		},
 
 		{
-			title: "Project 2",
+			title: "EcoDiscova",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+				"This project is a waste management software that encourages proper waste disposal via Education and Partnerships and Collaborations from Organizations around the world to ensure a healthy environment.",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/",
 		},
 
 		{
-			title: "Project 3",
+			title: "Jabba",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+				"This is a payment subscription software built specifically for Movie-streaming app subscriptions, Data, Airtime and Bills payment.",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/",
 		},
 	],
 };
