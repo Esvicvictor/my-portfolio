@@ -34,11 +34,11 @@ const INFO = {
 
 	projects: [
 		{
-			title: "SpiceAfrica",
+			title: "Furniro",
 			description:
-				"This project showcases different African Meals and a simple ordering system.",
+				"This project showcases different kinds of furnitures available for purchase and shipping",
 			linkText: "View Project",
-			link: "https://github.com/",
+			link: "https://furniro-app-kappa.vercel.app/",
 		},
 
 		{
@@ -46,15 +46,15 @@ const INFO = {
 			description:
 				"This project is a waste management software that encourages proper waste disposal via Education and Partnerships and Collaborations from Organizations around the world to ensure a healthy environment.",
 			linkText: "View Project",
-			link: "https://github.com/",
+			link: "https://project-eco-discover.vercel.app/",
 		},
 
 		{
 			title: "Jabba",
 			description:
 				"This is a payment subscription software built specifically for Movie-streaming app subscriptions, Data, Airtime and Bills payment.",
-			linkText: "View Project",
-			link: "https://github.com/",
+			linkText: "Incoming Project",
+			link: "./.",
 		},
 	],
 };
